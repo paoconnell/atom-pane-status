@@ -1,11 +1,16 @@
 {
-  "name": "atom-pane-status",
+  "name": "pane-status-bar",
   "main": "./lib/atom-pane-status",
   "version": "0.0.0",
   "description": "Puts a status bar on each pane",
   "keywords": [
+    "pane",
+    "status",
+    "status bar",
+    "filename",
+    "path"
   ],
-  "repository": "https://github.com/atom/atom-pane-status",
+  "repository": "https://github.com/paoconnell/atom-pane-status",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
